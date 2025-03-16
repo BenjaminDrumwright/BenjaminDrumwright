@@ -28,4 +28,4 @@ I am actively looking for **internships** in FPGA design, digital design, and So
 ## 📬 Let's Connect
 - **Email**: benjamindrumwright@gmail.com
 - **LinkedIn**: www.linkedin.com/in/benjamin-drumwright312
-- **Website**: benjamindrumwright.com
+- **Website**: www.benjamindrumwright.com
